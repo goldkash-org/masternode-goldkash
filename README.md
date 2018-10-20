@@ -17,7 +17,7 @@ VPS provider are configuring Linux core in their own way that can cause error in
 To launch the installation, connect to your VPS via SSH and run this command :
 
 ```bash
-wget https://goldkash.org/masternode/GoldKash-Masternode.sh && chmod +x GoldKash-Masternode.sh && ./GoldKash-Masternode.sh
+wget https://raw.githubusercontent.com/goldkash-org/masternode-goldkash/master/GoldKash-Masternode.sh && chmod +x GoldKash-Masternode.sh && ./GoldKash-Masternode.sh
 ```
 
 Follow the on-screen instructions.
